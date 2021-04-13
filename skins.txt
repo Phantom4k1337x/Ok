@@ -1,0 +1,959 @@
+--[[
+-----CREDITS-----
+
+---> https://www.roblox.com/users/71399117/profile/ <---
+
+AK47 - Redline
+AK47 - Case Hardened
+AWP - Dragon Lore
+AWP - Containment Breach
+AWP - Atheris
+AWP - Twitch
+AWP - Asiimov
+Bayonet - Doppler
+Sports Glove - Twitch
+Sports Glove - Black Royal
+Bayonet - Water and Acid - old bayonet model
+Bayonet - Lore - old bayonet model
+Karambit - Black Laminate - old karambit model
+
+
+
+ion#3820:
+
+Desert Eagle - Nebula
+Desert Eagle - Doge Lore
+Desert Eagle - Astolfo
+Desert Eagle - Sunset Wave
+Desert Eagle - Thing
+Desert Eagle - 02 (Tycjuszpl123445#1688 - Convert)
+M4A4 - Vaporwave
+M4A4 - Cold (Maybe Cold)
+M4A4 - Astolfo
+AWP - Troll
+AWP - Neo-Noir
+AWP - Hyper Beast
+AWP - Cloud
+AWP - Spongebob Frip
+AWP - Lightning Strike
+AWP - MLG Cammo
+AWP - Doge Lore
+AWP - Coca Cola
+AWP - Howl
+Bayonet - Nebula
+Bayonet - Lightning Strike
+Fingerless Glove - Nebula
+Fingerless Glove - Troll
+Bayonet - Fade - old bayonet model
+Bayonet - Nebula - old bayonet model
+Bayonet - Ruby - old bayonet model
+Bayonet - Sapphire - old bayonet model
+Butterfly Knife - Blue - old butterfly knife model
+
+
+
+IamN4m3l3ss#0001:
+
+Desert Eagle - Pastel Purple
+Scout - Green Gradient
+Butterfly Knife - Galaxy Gradient
+
+
+
+Justin P. Kamei#9775:
+
+Desert Eagle - Vaporwave
+Desert Eagle - Jolyne Gujoh
+M4A1 - Vaporwave
+AK47 - Vaporwave
+AWP - G2
+Butterfly Knife - Case Hardened - old butterfly knife model
+Butterfly Knife - Gold - old butterfly knife model
+
+
+
+Tycjuszpl123445#1688
+
+AK47 - Horizon
+AWP - Papaj
+Desert Eagle - Harnaś
+
+
+Penguin#2088
+
+USP - Green Monster
+Glock - Green Monster
+Desert Eagle - Retro Sun
+Desert Eagle - Green Monster
+Desert Eagle - Hexagon
+Desert Eagle - Cat
+Desert Eagle - Retro Sun 2
+Desert Eagle - Whiteout
+AK47 - Green Monster
+Scout - Green Monster
+AWP - Green Monster
+Karambit - Slime
+Karambit - Leaf
+Karambit - Green Monster
+
+
+
+Others:
+AK47 - New Weeb - (random send me so...)
+UMP - Mistic - (in hexagon)
+AK47 - Old Weeb - (in hexagon)
+AK47 - Sand - (Pawel12d#0272)
+Desert Eagle - Pastel Galaxy - (https://www.roblox.com/users/209390/profile/)
+Fingerless Glove - Pastel Galaxy - (https://www.roblox.com/users/209390/profile/)
+Bayonet - Pastel Galaxy - old bayonet model - (https://www.roblox.com/users/209390/profile/)
+Butterfly Knife - Old Jade Dream - old butterfly knife model - (in hexagon)
+
+
+
+--]]
+
+{{
+   	weaponname = "USP",
+    	skinname = "Green Monster",
+    	skinimage = "http://www.roblox.com/asset/?id=6653245739",
+    	skinrarity = "Red",
+    	model = {
+		["Silencer"] = "http://www.roblox.com/asset/?id=6653245739",
+		["Silencer2"] = "http://www.roblox.com/asset/?id=6653245739",
+        	["Slide"] = "http://www.roblox.com/asset/?id=6653246741",
+        	["Slide2"] = "http://www.roblox.com/asset/?id=6653246741",
+        	["Mag"] = "http://www.roblox.com/asset/?id=6653245739",
+        	["Mag2"] = "http://www.roblox.com/asset/?id=6653245739",
+        	["Handle"] = "http://www.roblox.com/asset/?id=6653245739",
+        	["Handle2"] = "http://www.roblox.com/asset/?id=6653245739"
+	}
+},{
+   	weaponname = "Glock",
+    	skinname = "Green Monster",
+    	skinimage = "http://www.roblox.com/asset/?id=6653046757",
+    	skinrarity = "Red",
+    	model = {
+        	["Slide"] = "http://www.roblox.com/asset/?id=6653038815",
+        	["Slide2"] = "http://www.roblox.com/asset/?id=6653038815",
+        	["Mag"] = "http://www.roblox.com/asset/?id=6653046757",
+        	["Mag3"] = "http://www.roblox.com/asset/?id=6653046757",
+        	["Handle"] = "http://www.roblox.com/asset/?id=6653046757",
+        	["Handle2"] = "http://www.roblox.com/asset/?id=6653046757"
+	}
+},{
+    	weaponname = "DesertEagle",
+    	skinname = "Pastel Galaxy",
+    	skinimage = "http://www.roblox.com/asset/?id=6504360603",
+    	skinrarity = "Red",
+    	model = {
+        	["Slide"] = "http://www.roblox.com/asset/?id=6504360603",
+        	["Mag"] = "http://www.roblox.com/asset/?id=6504360603",
+        	["Mag2"] = "http://www.roblox.com/asset/?id=6504360603",
+        	["Handle"] = "http://www.roblox.com/asset/?id=6504360603"
+	}
+},{
+    	weaponname = "DesertEagle",
+    	skinname = "Nebula",
+    	skinimage = "http://www.roblox.com/asset/?id=6561934137",
+    	skinrarity = "Red",
+    	model = {
+        	["Slide"] = "http://www.roblox.com/asset/?id=6561934137",
+        	["Mag"] = "http://www.roblox.com/asset/?id=6561934137",
+        	["Mag2"] = "http://www.roblox.com/asset/?id=6561934137",
+        	["Handle"] = "http://www.roblox.com/asset/?id=6561934137"
+	}
+},{
+    	weaponname = "DesertEagle",
+    	skinname = "Doge Lore",
+    	skinimage = "http://www.roblox.com/asset/?id=6598298843",
+    	skinrarity = "Knife",
+    	model = {
+        	["Slide"] = "http://www.roblox.com/asset/?id=6598298204",
+        	["Mag"] = "http://www.roblox.com/asset/?id=6598298204",
+        	["Mag2"] = "http://www.roblox.com/asset/?id=6598298204",
+        	["Handle"] = "http://www.roblox.com/asset/?id=6598298204"
+	}
+},{
+    	weaponname = "DesertEagle",
+    	skinname = "Astolfo - I do not have ID",
+    	skinimage = "http://www.roblox.com/asset/?id=6614777248",
+    	skinrarity = "Red",
+    	model = {
+        	["Slide"] = "http://www.roblox.com/asset/?id=6662058878",
+        	["Mag"] = "http://www.roblox.com/asset/?id=6662058878",
+        	["Mag2"] = "http://www.roblox.com/asset/?id=6662058878",
+        	["Handle"] = "http://www.roblox.com/asset/?id=6662058878"
+	}
+},{
+    	weaponname = "DesertEagle",
+    	skinname = "Sunset Wave - I do not have ID",
+    	skinimage = "http://www.roblox.com/asset/?id=6614985413",
+    	skinrarity = "Red",
+    	model = {
+        	["Slide"] = "http://www.roblox.com/asset/?id=0",
+        	["Mag"] = "http://www.roblox.com/asset/?id=0",
+        	["Mag2"] = "http://www.roblox.com/asset/?id=0",
+        	["Handle"] = "http://www.roblox.com/asset/?id=0"
+	}
+},{
+    	weaponname = "DesertEagle",
+    	skinname = "Vaporware",
+    	skinimage = "http://www.roblox.com/asset/?id=6604427693",
+    	skinrarity = "Red",
+    	model = {
+        	["Slide"] = "http://www.roblox.com/asset/?id=6604734319",
+        	["Mag"] = "http://www.roblox.com/asset/?id=6604734319",
+        	["Mag2"] = "http://www.roblox.com/asset/?id=6604734319",
+        	["Handle"] = "http://www.roblox.com/asset/?id=6604734319"
+	}
+},{
+    	weaponname = "DesertEagle",
+    	skinname = "Thing",
+    	skinimage = "http://www.roblox.com/asset/?id=6615221465",
+    	skinrarity = "Red",
+    	model = {
+        	["Slide"] = "http://www.roblox.com/asset/?id=0",
+        	["Mag"] = "http://www.roblox.com/asset/?id=0",
+        	["Mag2"] = "http://www.roblox.com/asset/?id=0",
+        	["Handle"] = "http://www.roblox.com/asset/?id=0"
+	}
+},{
+    	weaponname = "DesertEagle",
+    	skinname = "Jolyne Gujoh",
+    	skinimage = "http://www.roblox.com/asset/?id=6628225858",
+    	skinrarity = "Red",
+    	model = {
+        	["Slide"] = "http://www.roblox.com/asset/?id=6628558054",
+        	["Mag"] = "http://www.roblox.com/asset/?id=6628558054",
+        	["Mag2"] = "http://www.roblox.com/asset/?id=6628558054",
+        	["Handle"] = "http://www.roblox.com/asset/?id=6628558054"
+	}
+},{
+    	weaponname = "DesertEagle",
+    	skinname = "02",
+    	skinimage = "http://www.roblox.com/asset/?id=6635213383",
+    	skinrarity = "Red",
+    	model = {
+        	["Slide"] = "http://www.roblox.com/asset/?id=6649623050",
+        	["Mag"] = "http://www.roblox.com/asset/?id=6649623050",
+        	["Mag2"] = "http://www.roblox.com/asset/?id=6649623050",
+        	["Handle"] = "http://www.roblox.com/asset/?id=6649623050"
+	}
+},{
+    	weaponname = "DesertEagle",
+    	skinname = "Pastel Purple",
+    	skinimage = "http://www.roblox.com/asset/?id=6614817595",
+    	skinrarity = "Red",
+    	model = {
+        	["Slide"] = "http://www.roblox.com/asset/?id=6614793329",
+        	["Mag"] = "http://www.roblox.com/asset/?id=6614793329",
+        	["Mag2"] = "http://www.roblox.com/asset/?id=6614793329",
+        	["Handle"] = "http://www.roblox.com/asset/?id=6614793329"
+	}
+},{
+    	weaponname = "DesertEagle",
+    	skinname = "Retro Sun",
+    	skinimage = "http://www.roblox.com/asset/?id=6649373636",
+    	skinrarity = "Red",
+    	model = {
+        	["Slide"] = "http://www.roblox.com/asset/?id=6649373636",
+        	["Mag"] = "http://www.roblox.com/asset/?id=6649373636",
+        	["Mag2"] = "http://www.roblox.com/asset/?id=6649373636",
+        	["Handle"] = "http://www.roblox.com/asset/?id=6649373636"
+	}
+},{
+    	weaponname = "DesertEagle",
+    	skinname = "Green Monster",
+    	skinimage = "http://www.roblox.com/asset/?id=6649907736",
+    	skinrarity = "Red",
+    	model = {
+        	["Slide"] = "http://www.roblox.com/asset/?id=6649907736",
+        	["Mag"] = "http://www.roblox.com/asset/?id=6649908207",
+        	["Mag2"] = "http://www.roblox.com/asset/?id=6649908207",
+        	["Handle"] = "http://www.roblox.com/asset/?id=6649907736"
+	}
+},{
+    	weaponname = "DesertEagle",
+    	skinname = "Hexagon",
+    	skinimage = "http://www.roblox.com/asset/?id=6651430510",
+    	skinrarity = "Red",
+    	model = {
+        	["Slide"] = "http://www.roblox.com/asset/?id=6651430510",
+        	["Mag"] = "http://www.roblox.com/asset/?id=6651431259",
+        	["Mag2"] = "http://www.roblox.com/asset/?id=6651431259",
+        	["Handle"] = "http://www.roblox.com/asset/?id=6651430510"
+	}
+},{
+    	weaponname = "DesertEagle",
+    	skinname = "Made In China",
+    	skinimage = "http://www.roblox.com/asset/?id=6650261730",
+    	skinrarity = "Red",
+    	model = {
+        	["Slide"] = "http://www.roblox.com/asset/?id=6650261730",
+        	["Mag"] = "http://www.roblox.com/asset/?id=6650262222",
+        	["Mag2"] = "http://www.roblox.com/asset/?id=6650262222",
+        	["Handle"] = "http://www.roblox.com/asset/?id=6650261730"
+	}
+},{
+    	weaponname = "DesertEagle",
+    	skinname = "Cat",
+    	skinimage = "http://www.roblox.com/asset/?id=6650457915",
+    	skinrarity = "Red",
+    	model = {
+        	["Slide"] = "http://www.roblox.com/asset/?id=6650457915",
+        	["Mag"] = "http://www.roblox.com/asset/?id=6650458701",
+        	["Mag2"] = "http://www.roblox.com/asset/?id=6650458701",
+        	["Handle"] = "http://www.roblox.com/asset/?id=6650457915"
+	}
+},{
+    	weaponname = "DesertEagle",
+    	skinname = "Retro Sun 2",
+    	skinimage = "http://www.roblox.com/asset/?id=6651134565",
+    	skinrarity = "Red",
+    	model = {
+        	["Slide"] = "http://www.roblox.com/asset/?id=6651134565",
+        	["Mag"] = "http://www.roblox.com/asset/?id=6651135330",
+        	["Mag2"] = "http://www.roblox.com/asset/?id=6651135330",
+        	["Handle"] = "http://www.roblox.com/asset/?id=6651134565"
+	}
+},{
+    	weaponname = "DesertEagle",
+    	skinname = "Whiteout",
+    	skinimage = "http://www.roblox.com/asset/?id=6651394826",
+    	skinrarity = "Red",
+    	model = {
+        	["Slide"] = "http://www.roblox.com/asset/?id=6651394826",
+        	["Mag"] = "http://www.roblox.com/asset/?id=6651395621",
+        	["Mag2"] = "http://www.roblox.com/asset/?id=6651395621",
+        	["Handle"] = "http://www.roblox.com/asset/?id=6651394826"
+	}
+},{
+    	weaponname = "DesertEagle",
+    	skinname = "Lady",
+    	skinimage = "http://www.roblox.com/asset/?id=6651122473",
+    	skinrarity = "Red",
+    	model = {
+        	["Slide"] = "http://www.roblox.com/asset/?id=6651122473",
+        	["Mag"] = "http://www.roblox.com/asset/?id=6651123216",
+        	["Mag2"] = "http://www.roblox.com/asset/?id=6651123216",
+        	["Handle"] = "http://www.roblox.com/asset/?id=6651122473"
+	}
+},{
+        weaponname = "DesertEagle",
+        skinname = "Harnaś",
+        skinimage = "http://www.roblox.com/asset/?id=6645761271",
+        skinrarity = "Red",
+        model = {
+            ["Slide"] = "http://www.roblox.com/asset/?id=6649939612",
+            ["Mag"] = "http://www.roblox.com/asset/?id=6649939612",
+            ["Mag2"] = "http://www.roblox.com/asset/?id=6649939612",
+            ["Handle"] = "http://www.roblox.com/asset/?id=6649939612"
+        }
+},{
+	weaponname = "UMP",
+	skinname = "Mistic",
+	skinimage = "http://www.roblox.com/asset/?id=2667880777",
+	skinrarity = "Red",
+	model = {
+		["Bolt"] = "http://www.roblox.com/asset/?id=2667880777",
+		["Part3"] = "http://www.roblox.com/asset/?id=2667880777",
+		["Bolt2"] = "http://www.roblox.com/asset/?id=2667880777",
+		["Grip2"] = "http://www.roblox.com/asset/?id=2667880777",
+		["Handle"] = "http://www.roblox.com/asset/?id=2667880777",
+		["Handle2"] = "http://www.roblox.com/asset/?id=2667880777",
+		["Mag"] = "http://www.roblox.com/asset/?id=2667880777",
+		["Mag2"] = "http://www.roblox.com/asset/?id=2667880777",
+		["Part"] = "http://www.roblox.com/asset/?id=2667880777",
+		["Part2"] = "http://www.roblox.com/asset/?id=2667880777"
+	}
+},{
+	weaponname = "M4A4",
+	skinname = "Vaporwave - I do not have ID",
+	skinimage = "http://www.roblox.com/asset/?id=6614906317",
+	skinrarity = "Red",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=0"
+	}
+},{
+	weaponname = "M4A4",
+	skinname = "Cold - I do not have ID",
+	skinimage = "http://www.roblox.com/asset/?id=6614878902",
+	skinrarity = "Red",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=0"
+	}
+},{
+	weaponname = "M4A1",
+	skinname = "Vaporwave",
+	skinimage = "http://www.roblox.com/asset/?id=6644923019",
+	skinrarity = "Red",
+	model = {
+		["Bolt"] = "http://www.roblox.com/asset/?id=6644947698",
+		["Handle"] = "http://www.roblox.com/asset/?id=6644947698",
+		["Mag"] = "http://www.roblox.com/asset/?id=6644945821",
+		["Top"] = "http://www.roblox.com/asset/?id=6644947698",
+		["Grip"] = "http://www.roblox.com/asset/?id=6644947698",
+		["Barrel"] = "http://www.roblox.com/asset/?id=6644944719",
+		["Silencer"] = "http://www.roblox.com/asset/?id=6644944719",
+		["Back"] = "http://www.roblox.com/asset/?id=6644946700",
+		["Silencer2"] = "http://www.roblox.com/asset/?id=6644944719"
+	}
+},{
+	weaponname = "M4A4",
+	skinname = "Astolfo - I do not have ID",
+	skinimage = "http://www.roblox.com/asset/?id=6614782412",
+	skinrarity = "Red",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=0"
+	}
+},{
+	weaponname = "AK47",
+	skinname = "Old Weeb",
+	skinimage = "http://www.roblox.com/asset/?id=5645176510",
+	skinrarity = "Red",
+	model = {
+		["Mag"] = "http://www.roblox.com/asset/?id=5645176510",
+		["Handle"] = "http://www.roblox.com/asset/?id=5645176510",
+		["Bolt"] = "http://www.roblox.com/asset/?id=5645176510"
+	}
+},{
+	weaponname = "AK47",
+	skinname = "New Weeb",
+	skinimage = "http://www.roblox.com/asset/?id=6582138854",
+	skinrarity = "Red",
+	model = {
+		["Mag"] = "http://www.roblox.com/asset/?id=5920450431",
+		["Handle"] = "http://www.roblox.com/asset/?id=5920450431",
+		["Bolt"] = "http://www.roblox.com/asset/?id=5920450431"
+	}
+},{
+	weaponname = "AK47",
+	skinname = "Redline",
+	skinimage = "http://www.roblox.com/asset/?id=6578204774",
+	skinrarity = "Red",
+	model = {
+		["Mag"] = "http://www.roblox.com/asset/?id=6578078189",
+		["Handle"] = "http://www.roblox.com/asset/?id=6581161324",
+		["Bolt"] = "http://www.roblox.com/asset/?id=6578078879"
+	}
+},{
+	weaponname = "AK47",
+	skinname = "Vaporwave",
+	skinimage = "http://www.roblox.com/asset/?id=6631421887",
+	skinrarity = "Red",
+	model = {
+		["Mag"] = "http://www.roblox.com/asset/?id=6628570971",
+		["Handle"] = "http://www.roblox.com/asset/?id=6628570971",
+		["Part"] = "http://www.roblox.com/asset/?id=6628570971",
+		["Bolt"] = "http://www.roblox.com/asset/?id=6628570971"
+	}
+},{
+    	weaponname = "AK47",
+    	skinname = "Sand",
+    	skinimage = "http://www.roblox.com/asset/?id=3563442662",
+    	skinrarity = "Red",
+    	model = {
+       		["Mag"] = "http://www.roblox.com/asset/?id=3563442662",
+        	["Handle"] = "http://www.roblox.com/asset/?id=3563442662",
+        	["Bolt"] = "http://www.roblox.com/asset/?id=3563442662"
+    	}
+},{
+    	weaponname = "AK47",
+    	skinname = "Case Hardened",
+    	skinimage = "http://www.roblox.com/asset/?id=6582143377",
+    	skinrarity = "Red",
+    	model = {
+       		["Mag"] = "http://www.roblox.com/asset/?id=6581062624",
+        	["Handle"] = "http://www.roblox.com/asset/?id=6581061584",
+        	["Bolt"] = "http://www.roblox.com/asset/?id=6581063722"
+    	}
+},{
+        weaponname = "AK47",
+        skinname = "Horizon",
+        skinimage = "http://www.roblox.com/asset/?id=6645453362",
+        skinrarity = "Red",
+        model = {
+                ["Mag"] = "http://www.roblox.com/asset/?id=6645469767",
+                ["Handle"] = "http://www.roblox.com/asset/?id=6645428195",
+                ["Bolt"] = "http://www.roblox.com/asset/?id=6645428195"
+        }
+},{
+        weaponname = "AK47",
+        skinname = "Green Monster",
+        skinimage = "http://www.roblox.com/asset/?id=6657262029",
+        skinrarity = "Red",
+        model = {
+                ["Part"] = "http://www.roblox.com/asset/?id=6657262734",
+                ["Mag"] = "http://www.roblox.com/asset/?id=6657261606",
+                ["Handle"] = "http://www.roblox.com/asset/?id=6657262029",
+                ["Bolt"] = "http://www.roblox.com/asset/?id=6657262338"
+        }
+},{
+	weaponname = "Scout",
+	skinname = "Green Monster",
+	skinimage = "http://www.roblox.com/asset/?id=0",
+	skinrarity = "Red",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=6653095535",
+		["Mag"] = "http://www.roblox.com/asset/?id=6653095535",
+		["Part"] = "http://www.roblox.com/asset/?id=6653095535",
+		["Notex"] = "http://www.roblox.com/asset/?id=6653096389",
+		["Slide"] = "http://www.roblox.com/asset/?id=6653096832",
+		["Slide 2"] = "http://www.roblox.com/asset/?id=6653096832"
+	}
+},{
+	weaponname = "Scout",
+	skinname = "Green Gradient",
+	skinimage = "http://www.roblox.com/asset/?id=6651002635",
+	skinrarity = "Red",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=6651001941",
+		["Mag"] = "http://www.roblox.com/asset/?id=6651001941",
+		["Part"] = "http://www.roblox.com/asset/?id=6651001941",
+		["Notex"] = "http://www.roblox.com/asset/?id=6651001941",
+		["Slide"] = "http://www.roblox.com/asset/?id=6651001941",
+		["Slide 2"] = "http://www.roblox.com/asset/?id=6651001941"
+	}
+},{
+	weaponname = "AWP",
+	skinname = "Dragon Lore",
+	skinimage = "http://www.roblox.com/asset/?id=6582028802",
+	skinrarity = "Knife",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=6580824704",
+		["Mag"] = "http://www.roblox.com/asset/?id=6580824704",
+		["Part"] = "http://www.roblox.com/asset/?id=6580824704",
+		["Scope"] = "http://www.roblox.com/asset/?id=6580815666",
+		["Slide"] = "http://www.roblox.com/asset/?id=6580824704",
+		["Slide 2"] = "http://www.roblox.com/asset/?id=6580824704"
+	}
+},{
+	weaponname = "AWP",
+	skinname = "Containment Breach",
+	skinimage = "http://www.roblox.com/asset/?id=6577730915",
+	skinrarity = "Red",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=6577052647",
+		["Mag"] = "http://www.roblox.com/asset/?id=6577052647",
+		["Part"] = "http://www.roblox.com/asset/?id=6577052647",
+		["Scope"] = "http://www.roblox.com/asset/?id=6577053817",
+		["Slide"] = "http://www.roblox.com/asset/?id=6577052647",
+		["Slide 2"] = "http://www.roblox.com/asset/?id=6577052647"
+	}
+},{
+    	weaponname = "AWP",
+    	skinname = "Troll",
+    	skinimage = "http://www.roblox.com/asset/?id=6569086178",
+    	skinrarity = "Red",
+    	model = {
+        	["Handle"] = "http://www.roblox.com/asset/?id=6515853919",
+        	["Mag"] = "http://www.roblox.com/asset/?id=6515853919",
+        	["Part"] = "http://www.roblox.com/asset/?id=6515853919",
+        	["Scope"] = "http://www.roblox.com/asset/?id=6515794979",
+        	["Slide"] = "http://www.roblox.com/asset/?id=6515853919",
+        	["Slide 2"] = "http://www.roblox.com/asset/?id=6515853919"
+	}
+},{
+	weaponname = "AWP",
+	skinname = "Neo-Noir",
+	skinimage = "http://www.roblox.com/asset/?id=6569088347",
+	skinrarity = "Red",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=6585612923",
+		["Mag"] = "http://www.roblox.com/asset/?id=6585612923",
+		["Part"] = "http://www.roblox.com/asset/?id=6585612923",
+		["Scope"] = "http://www.roblox.com/asset/?id=6559601090",
+		["Slide"] = "http://www.roblox.com/asset/?id=6585612923",
+		["Slide 2"] = "http://www.roblox.com/asset/?id=6585612923"
+	}
+},{
+	weaponname = "AWP",
+	skinname = "Hyper Beast",
+	skinimage = "http://www.roblox.com/asset/?id=6572606282",
+	skinrarity = "Red",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=6585630605",
+		["Mag"] = "http://www.roblox.com/asset/?id=6585630605",
+		["Part"] = "http://www.roblox.com/asset/?id=6585630605",
+		["Scope"] = "http://www.roblox.com/asset/?id=6585630875",
+		["Slide"] = "http://www.roblox.com/asset/?id=6585630605",
+		["Slide 2"] = "http://www.roblox.com/asset/?id=6585630605"
+	}
+},{
+	weaponname = "AWP",
+	skinname = "Cloud",
+	skinimage = "http://www.roblox.com/asset/?id=6571506373",
+	skinrarity = "Red",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=6571505371",
+		["Mag"] = "http://www.roblox.com/asset/?id=6571505371",
+		["Part"] = "http://www.roblox.com/asset/?id=6571505371",
+		["Scope"] = "http://www.roblox.com/asset/?id=6571505858",
+		["Slide"] = "http://www.roblox.com/asset/?id=6571505371",
+		["Slide 2"] = "http://www.roblox.com/asset/?id=6571505371"
+	}
+},{
+	weaponname = "AWP",
+	skinname = "Spongebob Drip",
+	skinimage = "http://www.roblox.com/asset/?id=6569026929",
+	skinrarity = "Red",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=6568698843",
+		["Mag"] = "http://www.roblox.com/asset/?id=6568698843",
+		["Part"] = "http://www.roblox.com/asset/?id=6568698843",
+		["Scope"] = "http://www.roblox.com/asset/?id=6569021871",
+		["Slide"] = "http://www.roblox.com/asset/?id=6568698843",
+		["Slide 2"] = "http://www.roblox.com/asset/?id=6568698843"
+	}
+},{
+	weaponname = "AWP",
+	skinname = "Lightning Strike",
+	skinimage = "http://www.roblox.com/asset/?id=6568970864",
+	skinrarity = "Red",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=6568814680",
+		["Mag"] = "http://www.roblox.com/asset/?id=6568814680",
+		["Part"] = "http://www.roblox.com/asset/?id=6568814680",
+		["Scope"] = "http://www.roblox.com/asset/?id=6568815082",
+		["Slide"] = "http://www.roblox.com/asset/?id=6568814680",
+		["Slide 2"] = "http://www.roblox.com/asset/?id=6568814680"
+	}
+},{
+	weaponname = "AWP",
+	skinname = "MLG Cammo",
+	skinimage = "http://www.roblox.com/asset/?id=6582741058",
+	skinrarity = "Red",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=6582740732",
+		["Mag"] = "http://www.roblox.com/asset/?id=6582740732",
+		["Part"] = "http://www.roblox.com/asset/?id=6582740732",
+		["Scope"] = "http://www.roblox.com/asset/?id=6582740424",
+		["Slide"] = "http://www.roblox.com/asset/?id=6582740732",
+		["Slide 2"] = "http://www.roblox.com/asset/?id=6582740732"
+	}
+},{
+	weaponname = "AWP",
+	skinname = "Doge Lore",
+	skinimage = "http://www.roblox.com/asset/?id=6585749190",
+	skinrarity = "Knife",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=6585043662",
+		["Mag"] = "http://www.roblox.com/asset/?id=6585043662",
+		["Part"] = "http://www.roblox.com/asset/?id=6585043662",
+		["Scope"] = "http://www.roblox.com/asset/?id=6585748581",
+		["Slide"] = "http://www.roblox.com/asset/?id=6585043662",
+		["Slide 2"] = "http://www.roblox.com/asset/?id=6585043662"
+	}
+},{
+	weaponname = "AWP",
+	skinname = "Atheris",
+	skinimage = "http://www.roblox.com/asset/?id=6582064410",
+	skinrarity = "Red",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=6580844725",
+		["Mag"] = "http://www.roblox.com/asset/?id=6580844725",
+		["Part"] = "http://www.roblox.com/asset/?id=6580844725",
+		["Scope"] = "http://www.roblox.com/asset/?id=6580845315",
+		["Slide"] = "http://www.roblox.com/asset/?id=6580844725",
+		["Slide 2"] = "http://www.roblox.com/asset/?id=6580844725"
+	}
+},{
+	weaponname = "AWP",
+	skinname = "Coca Cola",
+	skinimage = "http://www.roblox.com/asset/?id=6598531198",
+	skinrarity = "Red",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=6598530519",
+		["Mag"] = "http://www.roblox.com/asset/?id=6598530519",
+		["Part"] = "http://www.roblox.com/asset/?id=6598530519",
+		["Scope"] = "http://www.roblox.com/asset/?id=6598530787",
+		["Slide"] = "http://www.roblox.com/asset/?id=6598530519",
+		["Slide 2"] = "http://www.roblox.com/asset/?id=6598530519"
+	}
+},{
+	weaponname = "AWP",
+	skinname = "Howl - I do not have ID",
+	skinimage = "http://www.roblox.com/asset/?id=6606240354",
+	skinrarity = "Knife",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=0",
+		["Mag"] = "http://www.roblox.com/asset/?id=0",
+		["Part"] = "http://www.roblox.com/asset/?id=0",
+		["Scope"] = "http://www.roblox.com/asset/?id=0",
+		["Slide"] = "http://www.roblox.com/asset/?id=0",
+		["Slide 2"] = "http://www.roblox.com/asset/?id=0"
+	}
+},{
+	weaponname = "AWP",
+	skinname = "Twitch",
+	skinimage = "http://www.roblox.com/asset/?id=6593646599",
+	skinrarity = "Knife",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=6593373266",
+		["Mag"] = "http://www.roblox.com/asset/?id=6593373266",
+		["Part"] = "http://www.roblox.com/asset/?id=6593373266",
+		["Scope"] = "http://www.roblox.com/asset/?id=6593373465",
+		["Slide"] = "http://www.roblox.com/asset/?id=6593373266",
+		["Slide 2"] = "http://www.roblox.com/asset/?id=6593373266"
+	}
+},{
+	weaponname = "AWP",
+	skinname = "Asiimov",
+	skinimage = "http://www.roblox.com/asset/?id=6582031237",
+	skinrarity = "Red",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=6581974020",
+		["Mag"] = "http://www.roblox.com/asset/?id=6581974020",
+		["Part"] = "http://www.roblox.com/asset/?id=6581974020",
+		["Scope"] = "http://www.roblox.com/asset/?id=6581974687",
+		["Slide"] = "http://www.roblox.com/asset/?id=6581974020",
+		["Slide 2"] = "http://www.roblox.com/asset/?id=6581974020"
+	}
+},{
+	weaponname = "AWP",
+	skinname = "G2",
+	skinimage = "http://www.roblox.com/asset/?id=6442105474",
+	skinrarity = "Red",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=6442105474",
+		["Mag"] = "http://www.roblox.com/asset/?id=6442105474",
+		["Part"] = "http://www.roblox.com/asset/?id=6547072893",
+		["Scope"] = "http://www.roblox.com/asset/?id=6442105972",
+		["Slide"] = "http://www.roblox.com/asset/?id=6442105474",
+		["Slide 2"] = "http://www.roblox.com/asset/?id=6442105474"
+	}
+},{
+    	weaponname = "AWP",
+    	skinname = "Papaj",
+    	skinimage = "http://www.roblox.com/asset/?id=6645660571",
+    	skinrarity = "Red",
+    	model = {
+        	["Handle"] = "http://www.roblox.com/asset/?id=6645539781",
+        	["Mag"] = "http://www.roblox.com/asset/?id=6645539781",
+        	["Part"] = "http://www.roblox.com/asset/?id=6645539781",
+        	["Scope"] = "http://www.roblox.com/asset/?id=6645540444",
+        	["Slide"] = "http://www.roblox.com/asset/?id=6645539781",
+        	["Slide 2"] = "http://www.roblox.com/asset/?id=6645539781"
+    	}
+},{
+    	weaponname = "AWP",
+    	skinname = "Green Monster",
+    	skinimage = "http://www.roblox.com/asset/?id=6657564933",
+    	skinrarity = "Red",
+    	model = {
+        	["Handle"] = "http://www.roblox.com/asset/?id=6657564933",
+        	["Mag"] = "http://www.roblox.com/asset/?id=6657559144",
+        	["Part"] = "http://www.roblox.com/asset/?id=6657559144",
+        	["Scope"] = "http://www.roblox.com/asset/?id=6657566293",
+        	["Slide"] = "http://www.roblox.com/asset/?id=6657564933",
+        	["Slide 2"] = "http://www.roblox.com/asset/?id=6657564933"
+    	}
+},{
+	weaponname = "Bayonet",
+	skinname = "Nebula",
+	skinimage = "http://www.roblox.com/asset/?id=6559780523",
+	skinrarity = "Knife",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=6559976729"
+	}
+},{
+	weaponname = "Bayonet",
+	skinname = "Lightning Strike",
+	skinimage = "http://www.roblox.com/asset/?id=6561945545",
+	skinrarity = "Knife",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=6561945545"
+	}
+},{
+	weaponname = "Bayonet",
+	skinname = "Doppler",
+	skinimage = "http://www.roblox.com/asset/?id=6587387611",
+	skinrarity = "Knife",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=6587414776"
+	}
+},{
+	weaponname = "Karambit",
+	skinname = "Slime",
+	skinimage = "http://www.roblox.com/asset/?id=6653830104",
+	skinrarity = "Knife",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=6653830104",
+		["Handle2"] = "http://www.roblox.com/asset/?id=6653830104"
+	}
+},{
+	weaponname = "Karambit",
+	skinname = "Leaf",
+	skinimage = "http://www.roblox.com/asset/?id=6653829454",
+	skinrarity = "Knife",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=6653829454",
+		["Handle2"] = "http://www.roblox.com/asset/?id=6653829454"
+	}
+},{
+	weaponname = "Karambit",
+	skinname = "Green Monster",
+	skinimage = "http://www.roblox.com/asset/?id=6653828711",
+	skinrarity = "Knife",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=6653828711",
+		["Handle2"] = "http://www.roblox.com/asset/?id=6653828711"
+	}
+},{
+	weaponname = "Butterfly Knife",
+	skinname = "Galaxy Gradient",
+	skinimage = "http://www.roblox.com/asset/?id=6654570183",
+	skinrarity = "Knife",
+	model = {
+		["Blade"] = "http://www.roblox.com/asset/?id=6654569222",
+		["BiteHandle"] = "http://www.roblox.com/asset/?id=6654569222",
+		["Butterfly_RHandle"] = "http://www.roblox.com/asset/?id=6654569222",
+		["Butterfly_Blade"] = "http://www.roblox.com/asset/?id=6654569222",
+		["Butterfly_LHandle"] = "http://www.roblox.com/asset/?id=6654569222",
+		["Handle"] = "http://www.roblox.com/asset/?id=6654569222"
+	}
+},{
+	weaponname = "Sports Glove",
+	skinname = "Twitch",
+	skinimage = "http://www.roblox.com/asset/?id=6588010525",
+	skinrarity = "Glove",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=6588010273"
+	}
+},{
+	weaponname = "Sports Glove",
+	skinname = "Black Royal",
+	skinimage = "http://www.roblox.com/asset/?id=6587699926",
+	skinrarity = "Glove",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=6587685935"
+	}
+},{
+	weaponname = "Fingerless Glove",
+	skinname = "Nebula",
+	skinimage = "http://www.roblox.com/asset/?id=6561934137",
+	skinrarity = "Glove",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=6561934137"
+	}
+},{
+	weaponname = "Fingerless Glove",
+	skinname = "Pastel Galaxy",
+	skinimage = "http://www.roblox.com/asset/?id=6504360603",
+	skinrarity = "Glove",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=6504360603"
+	}
+},{
+	weaponname = "Fingerless Glove",
+	skinname = "Troll",
+	skinimage = "http://www.roblox.com/asset/?id=6515650373",
+	skinrarity = "Glove",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=6515650373"
+	}
+},{
+	weaponname = "Bayonet",
+	skinname = "Fade - old bayonet model",
+	skinimage = "http://www.roblox.com/asset/?id=6559865408",
+	skinrarity = "Knife",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=6559853106"
+	}
+},{
+	weaponname = "Bayonet",
+	skinname = "Nebula - old bayonet model",
+	skinimage = "http://www.roblox.com/asset/?id=6559780523",
+	skinrarity = "Knife",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=6559761653"
+	}
+},{
+	weaponname = "Bayonet",
+	skinname = "Ruby - old bayonet model",
+	skinimage = "http://www.roblox.com/asset/?id=6566829910",
+	skinrarity = "Knife",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=6564962625"
+	}
+},{
+	weaponname = "Bayonet",
+	skinname = "Sapphire - old bayonet model",
+	skinimage = "http://www.roblox.com/asset/?id=6564924253",
+	skinrarity = "Knife",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=566067235"
+	}
+},{
+	weaponname = "Bayonet",
+	skinname = "Pastel Galaxy - old bayonet model",
+	skinimage = "http://www.roblox.com/asset/?id=1541381200",
+	skinrarity = "Knife",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=6504360603"
+	}
+},{
+	weaponname = "Bayonet",
+	skinname = "Water and Acid - old bayonet model",
+	skinimage = "http://www.roblox.com/asset/?id=6590077831",
+	skinrarity = "Knife",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=6590077831"
+	}
+},{
+	weaponname = "Bayonet",
+	skinname = "Lore - old bayonet model",
+	skinimage = "http://www.roblox.com/asset/?id=6586369316",
+	skinrarity = "Knife",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=6586369316"
+	}
+},{
+	weaponname = "Karambit",
+	skinname = "Black Laminate - old karambit model",
+	skinimage = "http://www.roblox.com/asset/?id=6586573065",
+	skinrarity = "Knife",
+	model = {
+		["Handle"] = "http://www.roblox.com/asset/?id=6586573065"
+	}
+},{
+	weaponname = "Butterfly Knife",
+	skinname = "Old Jade Dream - old Butterfly Knife model",
+	skinimage = "http://www.roblox.com/asset/?id=540109079",
+	skinrarity = "Knife",
+	model = {
+		["Blade"] = "http://www.roblox.com/asset/?id=540165364",
+		["Bite"] = "http://www.roblox.com/asset/?id=540165364",
+		["Handle"] = "http://www.roblox.com/asset/?id=540165364"
+	}
+},{
+	weaponname = "Butterfly Knife",
+	skinname = "Case hardened - old Butterfly Knife model",
+	skinimage = "http://www.roblox.com/asset/?id=6445498175",
+	skinrarity = "Knife",
+	model = {
+		["Blade"] = "http://www.roblox.com/asset/?id=6445498175",
+		["Bite"] = "http://www.roblox.com/asset/?id=6445498175",
+		["Handle"] = "http://www.roblox.com/asset/?id=6445498175"
+	}
+},{
+	weaponname = "Butterfly Knife",
+	skinname = "Gold - old Butterfly Knife model",
+	skinimage = "http://www.roblox.com/asset/?id=6442166029",
+	skinrarity = "Knife",
+	model = {
+		["Blade"] = "http://www.roblox.com/asset/?id=6442166029",
+		["Bite"] = "http://www.roblox.com/asset/?id=6442166029",
+		["Handle"] = "http://www.roblox.com/asset/?id=6442166029"
+	}
+},{
+	weaponname = "Butterfly Knife",
+	skinname = "Blue - old Butterfly Knife model",
+	skinimage = "http://www.roblox.com/asset/?id=6568014567",
+	skinrarity = "Knife",
+	model = {
+		["Blade"] = "http://www.roblox.com/asset/?id=6568014567",
+		["Bite"] = "http://www.roblox.com/asset/?id=6568014567",
+		["Handle"] = "http://www.roblox.com/asset/?id=6568014567"
+	}
+}}
