@@ -1,0 +1,133 @@
+{{
+weaponname = "Halloween C4",
+modelname = "C4",
+model = game.ReplicatedStorage.Viewmodels["v_C4Halloween"]:Clone()
+},{
+    weaponname = "Old M4A1",
+    modelname = "M4A1",
+    model = game.ReplicatedStorage.Viewmodels["v_oldM4A1-S"]:Clone()
+},{
+    weaponname = "Old Scout",
+    modelname = "Scout",
+    model = game:GetObjects("rbxassetid://6587879507")[1]["Scout"]
+},{
+    weaponname = "Old AWP",
+    modelname = "AWP",
+    model = game:GetObjects("rbxassetid://6587879507")[1]["AWP"]
+},{
+    weaponname = "Old USP",
+    modelname = "USP",
+    model = game:GetObjects("rbxassetid://6587879507")[1]["USP"]
+},{
+    weaponname = "Old Butterfly Knife",
+    modelname = "Butterfly Knife",
+    model = game:GetObjects("rbxassetid://6587879507")[1]["Butterfly Knife"]
+},{
+    weaponname = "Old Karambit",
+    modelname = "Karambit",
+    model = game:GetObjects("rbxassetid://6587879507")[1]["Karambit"]
+},{
+    weaponname = "Old Bayonet",
+    modelname = "Bayonet",
+    model = game:GetObjects("rbxassetid://6587879507")[1]["Bayonet"]
+},{
+    weaponname = "Old Sickle",
+    modelname = "Sickle",
+    model = game:GetObjects("rbxassetid://6587879507")[1]["Sickle"]
+},{
+    weaponname = "Old Flip Knife",
+    modelname = "Flip Knife",
+    model = game:GetObjects("rbxassetid://6587879507")[1]["Flip Knife"]
+},{
+    weaponname = "Crewmate",
+    modelname = "Bayonet",
+    model = game:GetObjects("rbxassetid://6500791405")[1]
+},{
+    weaponname = "Pickaxe",
+    modelname = "Sickle",
+    model = game:GetObjects("rbxassetid://6478215819")[1]
+},{
+    weaponname = "Barret",
+    modelname = "AWP",
+    model = game:GetObjects("rbxassetid://6477308219")[1]
+},{
+    weaponname = "Railgun",
+    modelname = "AWP",
+    model = game:GetObjects("rbxassetid://6477284418")[1]
+},{
+    weaponname = "Energy Blade",
+    modelname = "Bayonet",
+    model = game:GetObjects("rbxassetid://6477297801")[1]
+},{
+    weaponname = "Shadow Daggers",
+    modelname = "Karambit",
+    model = game:GetObjects("rbxassetid://6487384650")[1]
+},{
+    weaponname = "Sword",
+    modelname = "Butterfly Knife",
+    model = game:GetObjects("rbxassetid://6476945399")[1]
+},{
+    weaponname = "Mosin",
+    modelname = "Scout",
+    model = game:GetObjects("rbxassetid://6482207385")[1]
+},{
+    weaponname = "DarkHeart",
+    modelname = "Karambit",
+    model = game:GetObjects("rbxassetid://6561960273")[1]
+},{
+    weaponname = "Gut Knife",
+    modelname = "Gut Knife",
+    model = game:GetObjects("rbxassetid://6604623343")[1]
+},{
+    weaponname = "Old Butterfly Knife Twitch",
+    modelname = "Butterfly Knife",
+    model = game:GetObjects("rbxassetid://6604843662")[1]
+},{
+    weaponname = "Old AWP Without Scope",
+    modelname = "AWP",
+    model = game:GetObjects("rbxassetid://6605587179")[1]
+},{
+    weaponname = "Old AWP Weeb",
+    modelname = "AWP",
+    model = game:GetObjects("rbxassetid://6655720351")[1]
+},{
+    weaponname = "Old Scout",
+    modelname = "Scout",
+    model = game:GetObjects("rbxassetid://6631837030")[1]
+},{
+    weaponname = "Nomad",
+    modelname = "Karambit",
+    model = game:GetObjects("rbxassetid://6645763107")[1]
+},{
+    weaponname = "Cybershashlik iz eroga",
+    modelname = "AWP",
+    model = game:GetObjects("rbxassetid://6661995918")[1]
+},{
+    weaponname = "Cybershashlik iz eroga deagle",
+    modelname = "DesertEagle",
+    model = game:GetObjects("rbxassetid://6666931685")[1]
+},{
+    weaponname = "Onime",
+    modelname = "Karambit",
+    model = game:GetObjects("rbxassetid://6600646739")[1]
+},{
+    weaponname = "Onime",
+    modelname = "AWP",
+    model = game:GetObjects("rbxassetid://6662020749")[1]
+},{
+    weaponname = "Scout NeverPasta",
+    modelname = "Scout",
+    model = game:GetObjects("rbxassetid://6658272269")[1]
+},{
+    weaponname = "Present Arbyzik dlya eroga",
+    modelname = "Karambit",
+    model = game:GetObjects("rbxassetid://6658647169")[1]
+},{
+    weaponname = "ak sil",
+    modelname = "AK47",
+    model = game:GetObjects("rbxassetid://6657807028")[1]
+},{
+    weaponname = "M9 Cosmos",
+    modelname = "Bayonet",
+    model = game:GetObjects("rbxassetid://6654998460")[1]
+}}
